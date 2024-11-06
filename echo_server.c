@@ -6,7 +6,6 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 
-
 #define BUFFER_SIZE 1024
 
 void error(const char *msg) {
